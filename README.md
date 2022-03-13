@@ -1,2 +1,2 @@
-# Assembly-language-programs
-programs with mips assembly language
+# Assembly-language-
+programs written in mips assembly language
